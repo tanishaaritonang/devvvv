@@ -30,7 +30,7 @@ Ideal for lightweight web log monitoring.
 
 ---
 
-## 🚀 GitHub Pages Deployment with GitHub Actions
+## 🚀 [GitHub Pages Deployment with GitHub Actions](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
 This project demonstrates how to set up **automatic deployment** of a static website using GitHub Actions. It:
 
