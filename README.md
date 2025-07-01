@@ -42,4 +42,8 @@ Perfect for personal portfolios or project documentation sites.
 
 ---
 
+## 🚀 [SSH Remote Server Setup](https://roadmap.sh/projects/ssh-remote-server-setup)
+here i made an instance on aws, which is ubuntu, and connect it to my putty using ssh
+aws will provide the key ( i named it my-ubuntu.pem )
+
 Feel free to explore each folder for more detailed README and code.
